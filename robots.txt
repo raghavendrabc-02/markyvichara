@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://markyvichara.vercel.app/sitemap.xml
+Sitemap: https://www.markyvichara.in/sitemap.xml
